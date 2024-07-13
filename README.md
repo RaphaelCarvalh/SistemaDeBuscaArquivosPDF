@@ -1,6 +1,10 @@
 # Buscador de Frases em Arquivos PDF
 
-Este é um script em Python que busca por frases específicas em arquivos PDF dentro de uma pasta selecionada pelo usuário. Ele utiliza técnicas de extração de texto direta e OCR (Reconhecimento Óptico de Caracteres) para buscar as frases definidas em cada arquivo PDF. Não importando ser um arquivo digital ou um digitalização de scanner ou ainda uma foto.
+Este é um script em Python que busca por frases específicas em arquivos PDF dentro de uma pasta selecionada pelo usuário. Ele utiliza técnicas de extração de texto direta e OCR (Reconhecimento Óptico de Caracteres) para buscar as frases definidas em cada arquivo PDF. Não importando ser um arquivo digital ou um digitalização de scanner ou ainda uma foto. A interface é básica porque a idéia é demonstrar a capacide de ajsute do OCR.
+![Inicialização](https://drive.google.com/file/d/1tuTIfuN2t1EHsgQyBoVfIN3y_zBSFWOo/view)
+![Busca do local via explorer](https://drive.google.com/file/d/1urzhDyk0IfZ3tCC2pMA6DKLYyZr2_9t6/view)
+![Retorno das buscas](https://drive.google.com/file/d/1tRHvVpFy4pqOUxDUBptrrQ-gT9N3DRvq/view?usp=sharing)
+
 
 ## Funcionalidades
 
